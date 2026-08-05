@@ -48,4 +48,9 @@ public final class Constants
     public static final double RIGHT_X_DEADBAND = 0.1;
     public static final double TURN_CONSTANT    = 6;
   }
+    public static final class CAN_IDs {
+
+    public static final int FLYWHEEL_MOTOR_LEFT = 40;
+    public static final int FLYWHEEL_MOTOR_RIGHT = 41;
+  }
 }
