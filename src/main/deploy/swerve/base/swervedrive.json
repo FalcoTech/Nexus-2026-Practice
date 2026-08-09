@@ -2,7 +2,7 @@
   "$schema": "https://example.com/schemas/swervedrive.json",
   "gyro": {
     "type": "pigeon2_can",
-    "id": 1,
+    "id": 4,
     "canbus": ""
   },
   "gyroAxis": "yaw",

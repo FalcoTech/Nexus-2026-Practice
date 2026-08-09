@@ -2,15 +2,11 @@
   "$schema": "https://example.com/schemas/physicalproperties.json",
   "gearing": {
     "drive": {
-      "gearRatio": 6.75,
+      "gearRatio": 6.12,
       "diameter": 4
     },
     "angle": {
-      "gearRatio": 12.8
-    },
-    "statorCurrentLimit": {
-      "drive": 40,
-      "angle": 40
+      "gearRatio": 21.42
     }
   }
 }
